@@ -1,4 +1,4 @@
-## This is an `appimagetool` drop-in fork
+# Why this `AppImage/appimagetool` fork exists?
 
 To prevent further unfortunate incidents down the line, "[AM](https://github.com/ivan-hc/AM)" will use this fork of https://github.com/AppImage/appimagetool as a fallback, until we are certain that upstream appimagetool continues to function as it should.
 
