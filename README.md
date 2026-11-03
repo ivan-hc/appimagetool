@@ -1,4 +1,10 @@
-# appimagetool ![Downloads](https://img.shields.io/github/downloads/AppImage/appimagetool/total.svg) [![irc](https://img.shields.io/badge/IRC-%23AppImage%20on%20libera.chat-blue.svg)](https://web.libera.chat/#AppImage) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZT9CL8M5TJU72)
+## This is an `appimagetool` drop-in fork
+
+To prevent further unfortunate incidents down the line, "[AM](https://github.com/ivan-hc/AM)" will use a fork of appimagetool as a fallback, until we are certain that appimagetool continues to function as it should.
+
+ref https://github.com/AppImage/appimagetool/issues/138
+
+Only commits that are genuinely useful will be pulled in from upstream.
 
 ## Usage
 
