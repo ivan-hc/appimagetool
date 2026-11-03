@@ -1,10 +1,10 @@
 ## This is an `appimagetool` drop-in fork
 
-To prevent further unfortunate incidents down the line, "[AM](https://github.com/ivan-hc/AM)" will use a fork of appimagetool as a fallback, until we are certain that appimagetool continues to function as it should.
+To prevent further unfortunate incidents down the line, "[AM](https://github.com/ivan-hc/AM)" will use this fork of https://github.com/AppImage/appimagetool as a fallback, until we are certain that upstream appimagetool continues to function as it should.
 
 ref https://github.com/AppImage/appimagetool/issues/138
 
-Only commits that are genuinely useful will be pulled in from upstream.
+**Only commits that are genuinely useful will be pulled in from upstream.**
 
 ## Usage
 
